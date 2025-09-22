@@ -24,6 +24,5 @@ elif operator == '/':
         result = "Error! Division by zero."
 else:
     result = "Invalid operator!"
-
-# Display result
+    #Display Result
 print(f"The result is: {result}")
