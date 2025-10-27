@@ -1,8 +1,10 @@
 import requests
 import json
 
-# Replace this with your actual OpenWeatherMap API key
-API_KEY = "Sri_api_key"
+# Your actual OpenWeatherMap API key
+API_KEY = "68b5ac8a30d8947d0c642d33c28b5049"
+
+# Correct API endpoint
 BASE_URL = "https://api.openweathermap.org/data/2.5/weather"
 
 def get_weather(city_name):
@@ -26,7 +28,7 @@ def get_weather(city_name):
         
         # Display results
         print("\n🌤️  Weather Information 🌤️")
-        print(f"City: {city_name}")
+        print(f"City: {data['name']}")
         print(f"Temperature: {temperature}°C")
         print(f"Condition: {condition.title()}")
         print(f"Humidity: {humidity}%")
@@ -36,6 +38,6 @@ def get_weather(city_name):
 
 # Main program
 if __name__ == "__main__":
-    print("=== Weather App ===")
+    print("=== Weather Now App ===")
     city = input("Enter city name: ").strip()
     get_weather(city)
