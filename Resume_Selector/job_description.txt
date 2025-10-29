@@ -1,0 +1,8 @@
+We are looking for a skilled Python Developer to join our software development team. 
+The ideal candidate should have experience with web frameworks like Django or Flask, 
+and a strong understanding of REST APIs, HTML, CSS, and JavaScript. 
+
+Knowledge of database systems such as MySQL or MongoDB is required. 
+Experience with data analysis, pandas, NumPy, and version control tools like Git will be an advantage.
+
+Skills: Python, Django, Flask, REST API, HTML, CSS, JavaScript, MySQL, MongoDB, Pandas, NumPy, Git, Problem Solving, Communication

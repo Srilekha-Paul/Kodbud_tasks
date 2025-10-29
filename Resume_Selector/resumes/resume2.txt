@@ -1,0 +1,20 @@
+Name: Arjun Verma
+Email: arjunverma@example.com
+Phone: +91 8765432109
+
+Objective:
+To secure a position as a Full Stack Developer and utilize my knowledge in web technologies.
+
+Skills:
+HTML, CSS, JavaScript, React, Node.js, MongoDB, Express, Git, Teamwork
+
+Projects:
+1. E-commerce Website using MERN Stack
+2. Portfolio Website using React
+3. Chat Application using Socket.io
+
+Education:
+B.Sc in Information Technology, 2022
+
+Experience:
+Internship at VaultofCode as Web Developer Intern (2 months)
