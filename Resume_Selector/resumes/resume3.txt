@@ -1,0 +1,20 @@
+Name: Priya Das
+Email: priyadas@example.com
+Phone: +91 9123456780
+
+Objective:
+To obtain a Python Developer position and contribute to data-driven projects.
+
+Skills:
+Python, Flask, Pandas, NumPy, Data Analysis, MySQL, HTML, CSS, Git, Communication
+
+Projects:
+1. Data Visualization Dashboard using Flask and Pandas
+2. Student Management System using Python and MySQL
+3. Portfolio Website using HTML and CSS
+
+Education:
+B.Tech in Computer Engineering, 2024
+
+Experience:
+Internship at Kodbud as Python Developer Intern (1 month)
